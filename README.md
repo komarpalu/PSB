@@ -25,7 +25,7 @@ psb-214-3
 
 5. Untuk login pertama kali, masukan username "admin" dan password "admin".
 
-### PENGEMBANGA
+### PENGEMBANG
 Anggit Herdianto 
 
 [Facebook](http://twitter.com/AnggitHerdianto) [Twitter](http://facebook.com/AnggitHerdianto)
