@@ -1,0 +1,3 @@
+02 Maret 2014
+Update hasil seleksi, untuk halaman siswa yang sebelumnya menampilkan "diterima", "cadangan", dan "ditolak"
+sekarang dirubah menjadi "diterima" dan "cadangan" saja, alasan agar yang "ditolak" tidak merasa malu.
